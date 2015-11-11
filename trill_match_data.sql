@@ -11,3 +11,4 @@ and addr_country ='United States'
 --where created > sysdate - 90
 --and requesting_system = 'SFDC'
 --order by created desc
+/*** Babu * End of code **/
